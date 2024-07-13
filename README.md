@@ -7,11 +7,11 @@
 		- Utilizando fórmulas y funciones\
 		- Utilizando difreentes procesadores de hojas de cálculo
 	
-**Competencia profesional 2. Aplica formato avanzado a libros de hojas de cálculo**
-		- Generando funciones
-		- Organizando datos en tablas dinámicas
-		- Realizando análisis de datos con gráficos
-		- Utilizando herramientas de análisis
+**Competencia profesional 2. Aplica formato avanzado a libros de hojas de cálculo**\
+		- Generando funciones\
+		- Organizando datos en tablas dinámicas\
+		- Realizando análisis de datos con gráficos\
+		- Utilizando herramientas de análisis\
 		- Generando macros, satisfaciendo necesidades del cliente.
 
 # Actividad 1. 	
