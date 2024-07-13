@@ -1,10 +1,10 @@
 
 # SUBMODULO 2. GESTIONA INFORMACIÓN MEDIANTE EL USO DE HOJAS DE CÁLCULO
-**Competencia profesional 1. Elabora libros de hojas de cálculo**
-		- Administrando libros de trabajo
-		- Organizando datos en tablas
-		- Identificando, ordenando e interpretando datos
-		- Utilizando fórmulas y funciones
+**Competencia profesional 1. Elabora libros de hojas de cálculo**\
+		- Administrando libros de trabajo\
+		- Organizando datos en tablas\
+		- Identificando, ordenando e interpretando datos\
+		- Utilizando fórmulas y funciones\
 		- Utilizando difreentes procesadores de hojas de cálculo
 	
 **Competencia profesional 2. Aplica formato avanzado a libros de hojas de cálculo**
