@@ -10,13 +10,14 @@
 	
 # Actividad 1. Administrando libros de trabajo
 
-Instrucciones: Descarga el archivo llamado Practica1.xlsx y realiza lo siguiente:
+**Instrucciones:**
 
-1. Cambia el nombre de las hojas de trabajo de la siguiente manera:
+1. Abre un nuevo documento de Excel
+2. Cambia el nombre de las hojas de trabajo de la siguiente manera:
 	Hoja 1. Entorno
 	Hoja 2. Elementos
-2. Agrega un color de pestaña a cada hoja de trabajo. El color es libre
-3. En tu memoria, crea una carpeta que se llame Excel, ahora crea una subcarpeta llamada
+3. Agrega un color de pestaña a cada hoja de trabajo. El color es libre
+4. En tu memoria, crea una carpeta que se llame Excel, ahora crea una subcarpeta llamada
    prácticas parcial1 y dentro de esa carpeta guarda tu practica con el siguiente formato: 
    P1_tusiniciales_tugrupo.xlsx ejemplo: **P1_mah_3A.xlsx**
 
