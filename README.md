@@ -20,6 +20,8 @@
 4. En tu memoria, crea una carpeta que se llame Excel, ahora crea una subcarpeta llamada
    prácticas parcial1 y dentro de esa carpeta guarda tu practica con el siguiente formato: 
    P1_tusiniciales_tugrupo.xlsx ejemplo: **P1_mah_3A.xlsx**
+5. Revisa el archivo adjunto llamado listadecotejo para conocer la forma de evaluación de la 
+   práctica.
 
 
 
