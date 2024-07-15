@@ -1,5 +1,6 @@
 
 # SUBMODULO 2. GESTIONA INFORMACIÓN MEDIANTE EL USO DE HOJAS DE CÁLCULO
+
 **Competencia profesional 1. Elabora libros de hojas de cálculo**\
 		- Administrando libros de trabajo\
 		- Organizando datos en tablas\
@@ -7,18 +8,17 @@
 		- Utilizando fórmulas y funciones\
 		- Utilizando difreentes procesadores de hojas de cálculo
 	
-**Competencia profesional 2. Aplica formato avanzado a libros de hojas de cálculo**\
-		- Generando funciones\
-		- Organizando datos en tablas dinámicas\
-		- Realizando análisis de datos con gráficos\
-		- Utilizando herramientas de análisis\
-		- Generando macros, satisfaciendo necesidades del cliente.
+# Actividad 1. Administrando libros de trabajo
 
-# Actividad 1. 	
+Instrucciones: Descarga el archivo llamado Practica1.xlsx y realiza lo siguiente:
 
-Instrucciones: Investiga en las fuentes de informacion proporcionadas por el docente
-todo acerca de los elementos principales de una hoja de calculo y a continuacion completa la tabla.
-
+1. Cambia el nombre de las hojas de trabajo de la siguiente manera:
+	Hoja 1. Entorno
+	Hoja 2. Elementos
+2. Agrega un color de pestaña a cada hoja de trabajo. El color es libre
+3. En tu memoria, crea una carpeta que se llame Excel, ahora crea una subcarpeta llamada
+   prácticas parcial1 y dentro de esa carpeta guarda tu practica con el siguiente formato: 
+   P1_tusiniciales_tugrupo.xlsx ejemplo: **P1_mah_3A.xlsx**
 
 
 
